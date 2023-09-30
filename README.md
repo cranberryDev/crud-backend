@@ -1,1 +1,1 @@
-# VMS2.0-Backend
+# college-backend-crud
