@@ -252,7 +252,7 @@ const approveMail = (req, res) => {
             });
             console.log('Message sent successfully');
         }
-        run();
+        //run();
         res.status(200).send('Approve Mail Sent Successfully')
 
     }
