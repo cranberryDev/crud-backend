@@ -12,7 +12,7 @@ require("dotenv").config();
 const PORT = process.env.PORT || 8080;
 
 //MIDDLEWARES
-const allowedOrigins = ['http://localhost:3000', process.env.prod];
+const allowedOrigins = ['http://localhost:3000'];
 app.use(cors({origin:allowedOrigins}));
 app.use(cors({
     headers: {

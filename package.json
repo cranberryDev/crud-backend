@@ -25,6 +25,7 @@
     "mysql2": "^3.6.0",
     "node-mocks-http": "^1.13.0",
     "otp-generator": "^4.0.1",
+    "pg": "^8.11.3",
     "sequelize": "^6.32.1",
     "sequelize-mock": "^0.10.2",
     "supertest": "^6.3.3",

@@ -105,7 +105,7 @@ const approvalMailer = async (req, res) => {
                         
                     }
     
-                    run()
+                    //run()
                     //run()
                     res.status(200).send('Meeting approval Mail send successfully')
                 
